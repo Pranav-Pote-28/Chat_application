@@ -190,8 +190,3 @@ With return → Execution stops after sending a response, preventing errors. ✅
 Without return → Code keeps running, possibly causing another response to be sent (which is not allowed). ❌
 
 Always use return when sending an early response inside conditions.
-
-
-some trial change
-
-some changes on pranav-pote-28
